@@ -1,0 +1,11 @@
+Z:\Projects\logs-checker\logs-checker\bin\Release\logs-checker.exe.config
+Z:\Projects\logs-checker\logs-checker\bin\Release\logs-checker.exe.manifest
+Z:\Projects\logs-checker\logs-checker\bin\Release\logs-checker.application
+Z:\Projects\logs-checker\logs-checker\bin\Release\logs-checker.exe
+Z:\Projects\logs-checker\logs-checker\bin\Release\logs-checker.pdb
+Z:\Projects\logs-checker\logs-checker\obj\Release\logs-checker.csproj.AssemblyReference.cache
+Z:\Projects\logs-checker\logs-checker\obj\Release\logs-checker.csproj.CoreCompileInputs.cache
+Z:\Projects\logs-checker\logs-checker\obj\Release\logs-checker.exe.manifest
+Z:\Projects\logs-checker\logs-checker\obj\Release\logs-checker.application
+Z:\Projects\logs-checker\logs-checker\obj\Release\logs-checker.exe
+Z:\Projects\logs-checker\logs-checker\obj\Release\logs-checker.pdb

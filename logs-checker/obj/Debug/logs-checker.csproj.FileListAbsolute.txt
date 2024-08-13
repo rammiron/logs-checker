@@ -1,0 +1,11 @@
+Z:\Projects\logs-checker\logs-checker\bin\Debug\logs-checker.exe.config
+Z:\Projects\logs-checker\logs-checker\bin\Debug\logs-checker.exe
+Z:\Projects\logs-checker\logs-checker\bin\Debug\logs-checker.pdb
+Z:\Projects\logs-checker\logs-checker\obj\Debug\logs-checker.csproj.AssemblyReference.cache
+Z:\Projects\logs-checker\logs-checker\obj\Debug\logs-checker.csproj.CoreCompileInputs.cache
+Z:\Projects\logs-checker\logs-checker\obj\Debug\logs-checker.exe
+Z:\Projects\logs-checker\logs-checker\obj\Debug\logs-checker.pdb
+Z:\Projects\logs-checker\logs-checker\bin\Debug\logs-checker.exe.manifest
+Z:\Projects\logs-checker\logs-checker\bin\Debug\logs-checker.application
+Z:\Projects\logs-checker\logs-checker\obj\Debug\logs-checker.exe.manifest
+Z:\Projects\logs-checker\logs-checker\obj\Debug\logs-checker.application
