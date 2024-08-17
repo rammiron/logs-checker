@@ -52,10 +52,10 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>E511A03F2A16E82ED00B13E88F850DA7CA84BB72</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>F8CEB2CE13A382611E3B3F5D3EA7F5217C291618</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>logs-checker_1_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>logs-checker_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>true</SignAssembly>
@@ -84,6 +84,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="logs-checker_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.8">
